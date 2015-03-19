@@ -23,6 +23,7 @@
 
 함께 업로드된 example.html, tachyfont.min.js 파일을 확인해보시면 주석을 함께 달아두었으니 직관적으로 이해 가능하시리라 봅니다.
 
+[예시파일](https://cdn.rawgit.com/c8seki/webfont-tachyfont/e0024c2127135944f0b95bf4fc167ec52a46898a/example.html)을 볼 수 있도록 열어뒀습니다. 확인해보세요!
 
 폰트 추가 요청
 ====================
