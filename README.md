@@ -34,9 +34,6 @@
 
 추가하고 싶으신 폰트셋이 있으시면 본 Github Issues에 문의 바랍니다. 라이센스 확인후 가능한 폰트셋이면 서브셋용 파일로 변환하여 탑재 후 결과를 안내해 드리겠습니다. (당분간은 한글 서체만 가능)
 
-구걸
-====================
-
-서버 굴리는데도 비용이 들어갑니다. 운영 겸 확장할 비용을 지원해주시면 감사천만하겠습니다. (물론 안주셔도 똥속도로는 계속 굴러갑니다.) ㅋㅋ
-
-[기부하시려면 여기로 ㄱㄱㄱ](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4W3BC7TM9HEGG&lc=KR&item_name=Webfont%20Server%20with%20TachyFont&item_number=TACHY1503&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+프로젝트 기부
+=======
+https://gratipay.com/~korusdipl/ 에서 관련사항을 확인하실 수 있습니다 :)
