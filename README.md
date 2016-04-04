@@ -23,7 +23,7 @@
 
 함께 업로드된 example.html, tachyfont.min.js 파일을 확인해보시면 주석을 함께 달아두었으니 직관적으로 이해 가능하시리라 봅니다.
 
-[예시파일](https://cdn.rawgit.com/c8seki/webfont-tachyfont/e0024c2127135944f0b95bf4fc167ec52a46898a/example.html)을 볼 수 있도록 열어뒀습니다. 확인해보세요!
+[예시파일](https://cdn.rawgit.com/c8seki/webfont-tachyfont/48abff4fc6783505e2937818c010a48be53a99cc/example.html)을 볼 수 있도록 열어뒀습니다. 확인해보세요!
 
 현재 예제서버는 OpenShift 무료 플랫폼에 업로드 되어 있습니다. 이 서버는 유휴시간이 길 경우 자동으로 꺼지는 기능을 가지고 있습니다. 오랜시간 예제가 로딩이 되지 않는 경우 http://font.cf에 들어가셔서 서버를 깨워주셔야 합니다. ㅋㅋ
 
